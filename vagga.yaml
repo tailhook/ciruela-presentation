@@ -1,0 +1,19 @@
+containers:
+
+  hovercraft:
+    setup:
+    - !Alpine v3.7
+    - !Install [libxml2-dev, libxslt-dev, zlib-dev]
+    - !Env { CFLAGS: "-I/usr/include/libxml2 -I/usr/include/libxslt" }
+    - !PipConfig { dependencies: true }
+    - !Py3Install [hovercraft]
+    - !Git
+      url: https://github.com/frederikmoellers/hovercraft-template
+      path: /usr/share/hovercraft-template
+    - !Sh ln -sfn /usr/lib/python3.6/site-packages/hovercraft/templates/default/js/impress.js /usr/share/hovercraft-template/js/impress.js
+
+commands:
+
+  make: !Command
+    container: hovercraft
+    run: [hovercraft, -t, /usr/share/hovercraft-template, presentation.rst]
