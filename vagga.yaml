@@ -15,5 +15,18 @@ containers:
 commands:
 
   make: !Command
+    description: Build a presentation
     container: hovercraft
-    run: [hovercraft, -t, /usr/share/hovercraft-template, presentation.rst]
+    run:
+    - hovercraft
+    - --template=/usr/share/hovercraft-template
+    - presentation.rst
+    - docs
+
+  serve: !Command
+    description: Serve auto-rebuilding version at localhost:8000
+    container: hovercraft
+    run:
+    - hovercraft
+    - --template=/usr/share/hovercraft-template
+    - presentation.rst

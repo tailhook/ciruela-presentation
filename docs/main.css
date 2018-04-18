@@ -1,0 +1,6 @@
+.final-qrcode {
+    width: 200px;
+}
+.final-qrcode > p {
+    margin-top: -0.5ex;
+}
