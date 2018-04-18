@@ -33,6 +33,16 @@ Why?
 
 ----
 
+:data-x: r1400
+:data-y: r0
+
+Your Web App
+============
+
+.. image:: web-app.svg
+
+----
+
 :data-x: agenda+1400
 :data-y: agenda+0
 
