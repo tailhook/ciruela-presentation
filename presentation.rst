@@ -174,6 +174,25 @@ Ciruela
 .. image:: ciruela_qr.svg
    :alt: https://ciruela.rtfd.org/
 
+
+----
+
+:data-x: r1400
+:data-y: r0
+
+.. image:: ciruela_upload.svg
+   :width: 1200
+
+----
+
+Thats It!
+=========
+
+----
+
+.. image:: ciruela_new_server.svg
+   :width: 1200
+
 ----
 
 :id: use-cases
