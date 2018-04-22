@@ -1,6 +1,7 @@
 :title: P2P for Servers
 :hide-slide-numbers: true
 :css: main.css
+:js: keys.js
 
 .. role:: big
    :class: big
@@ -36,6 +37,7 @@ Why?
 
 ----
 
+:id: arch-start
 :data-x: r1400
 :data-y: r0
 
@@ -148,12 +150,18 @@ Categories
 
 ----
 
+.. image:: refresh.jpg
+   :height: 800
+
+----
+
 
 .. image:: congested_port.jpg
    :height: 800
 
 ----
 
+:id: ciruela-links
 :data-x: agenda+1400
 :data-y: agenda+0
 
@@ -168,6 +176,7 @@ Ciruela
 
 ----
 
+:id: use-cases
 :data-x: agenda+1400
 :data-y: agenda+1000
 
@@ -185,6 +194,7 @@ Use Cases
 
 ----
 
+:id: questions
 :data-x: initial+1000
 :data-y: initial+0
 :data-scale: 10
