@@ -4,3 +4,14 @@
 .final-qrcode > p {
     margin-top: -0.5ex;
 }
+.big {
+    font-size: 200%;
+}
+.blog-logo {
+    margin: 30px;
+}
+.image-categories {
+    position: relative;
+    top: -200px;
+    z-index: -1;
+}
