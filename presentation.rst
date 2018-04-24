@@ -190,8 +190,68 @@ Thats It!
 
 ----
 
+.. image:: ciruela_pings.svg
+   :width: 800
+
+----
+
+.. image:: ciruela_hashes.svg
+   :height: 800
+
+----
+
 .. image:: ciruela_new_server.svg
    :width: 1200
+
+----
+
+.. image:: ciruela_merkle_tree.svg
+   :height: 800
+
+----
+
+.. image:: ciruela_hardlinks.jpg
+   :height: 800
+
+----
+
+Hashes+Hardlinks
+================
+
+* Save disk space
+* Save bandwidth
+
+----
+
+.. image:: ciruela_exchange.jpg
+   :width: 1100
+
+----
+
+.. image:: ciruela_keys.svg
+   :height: 700
+
+----
+
+.. image:: ciruela_dirs.svg
+   :width: 1100
+
+----
+
+.. code-block:: text
+
+   ciruela sync \
+    --append ./local1:/dir1/v1.0.0 \
+    --replace ./local2:/dir2/current \
+    cluster1.org cluster2.org
+
+----
+
+Security Warning
+================
+
+* TLS is on to do list
+* Use behind firewall
 
 ----
 
@@ -202,14 +262,127 @@ Thats It!
 Use Cases
 =========
 
+*‥ and to do's*
+
 ----
 
 :data-x: r1400
 :data-y: r0
 
-.. code-block:: console
+Always Available
+================
 
-    > ciruela edit
+*‥ and dynamic*
+
+* Site categories
+* Currency rates
+* Feature flags
+
+----
+
+Always Available
+================
+
+.. code-block:: python
+
+   with open("/sync/cur/data.json") as f:
+       return json.load(f)
+
+*no network calls on start of app*
+
+----
+
+Cheap to Check
+==============
+
+.. code-block:: python
+
+   dir = Path("/sync/cur")
+   if dir.stat().st_ctime != old_time:
+       return cache
+
+----
+
+Push New Data
+=============
+
+.. code-block:: python
+
+   with tempfile.TemporaryDirectory() as d:
+     with open(d.name+'/data.json', 'w') s f:
+        json.dump(data, f)
+     subprocess.check_call([
+         'cirula', 'sync',
+         '--replace', d.name+':/sync/cur',
+         'entry-point.example.org'])
+
+----
+
+Refreshable Things
+==================
+
+* Configs
+* Translations
+* Game content
+
+*‥. removing file works!*
+
+----
+
+🕺 Edit on 100 Servers
+======================
+
+.. code-block:: text
+
+   ciruela edit \
+    -d /sync/cur -f /data.json \
+    cluster1.org cluster2.org
+
+
+----
+
+Basic Things
+============
+
+* Container Images
+* Static Sites
+* Container Cache for Vagga
+
+----
+
+🕺 Debian Repository
+====================
+
+* Only download index
+* Upload new index + .deb
+* Atomically replace
+
+----
+
+Container Audit
+===============
+
+* Download index directly from cluster
+* Check
+* Remember hash
+
+----
+
+🕺 Transactional FS
+===================
+
+* Mount via fuse
+* Download files on access
+* Sync back on unmount
+
+----
+
+Python Lab
+==========
+
+----
+
+TODO
 
 ----
 

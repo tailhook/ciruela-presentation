@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 5.1.316 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" style="" sketchjs:metadata="eyJ0aXRsZSI6Ijc2YTVmYThkLWRhNDMtNGVlYi04ODQ1LWMxNGJjNTFhNzNmNiIsImRlc2NyaXB0aW9uIjoiTWFkZSB3aXRoIFNrZXRjaHBhZCAtIGh0dHBzOi8vc2tldGNoLmlvL3NrZXRjaHBhZCIsIm1ldGFkYXRhIjp7fSwiY2xpcFBhdGgiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsImxpbmVXaWR0aCI6MX19LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJwbmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjEwNjcsImhlaWdodCI6NTc5LCJwYWdlcyI6eyJsZW5ndGgiOjEsImRhdGEiOlt7IndpZHRoIjoxMDY3LCJoZWlnaHQiOjU3OX1dfX0=" width="1067" height="579" viewBox="0 0 1067 579" sketchjs:version="5.1.316">
+<defs>
+	<linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-685.71" y1="-101.92" x2="-340" y2="232.36">
+		<stop offset="0" style="stop-color:#fff;"/>
+		<stop offset="1" style="stop-color:rgba(255, 255, 255, 0);stop-opacity:0;"/>
+	</linearGradient>
+</defs>
+<path sketchjs:tool="rectangle" style="fill: #ffffff; mix-blend-mode: source-over; fill-opacity: 1; fill-rule: nonzero; vector-effect: non-scaling-stroke;" d="M0 0 L1067 0 1067 579 0 579 z"/>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,490.12,154.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,321.12,259.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,471.12,409.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,683.12,36.129999999999995)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,587.12,259.13000000000005)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,822.12,234.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,683.12,476.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,852.12,395.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,895.12,129.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,273.12,476.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1,0,0,1,261.12,86.13)">
+	<g sketchjs:uid="1" style="fill-rule: evenodd; stroke-miterlimit: 10;">
+		<path d="M1.88 16.87l15-15h90l15 15v35h-120z" sketchjs:uid="2" style="fill: #e1e1e1; stroke: #7d7d7d; stroke-width: 3.75;"/>
+		<path d="M8.13 21.87h107.5c.688 0 1.25.562 1.25 1.25v22.5a1.25 1.25 0 0 1-1.25 1.25H8.13a1.25 1.25 0 0 1-1.25-1.25v-22.5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="3" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M88.13 31.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="4" style="fill: #c51900; stroke: #7d7d7d; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M99.38 24.37h2.5v20h-2.5z" sketchjs:uid="5" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M10.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M10.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H10.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 24.37h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M25.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H25.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M40.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H40.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M55.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H55.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25M70.63 36.87h7.817c.689 0 1.25.562 1.25 1.25v5a1.25 1.25 0 0 1-1.25 1.25H70.63a1.25 1.25 0 0 1-1.25-1.25v-5c0-.688.562-1.25 1.25-1.25" sketchjs:uid="6" style="fill: #515151; stroke: #9c9c9c; stroke-width: 1.25; stroke-linejoin: round;"/>
+		<path d="M11.88 16.87l10-10h82.5l10 10z" sketchjs:uid="7" style="fill: #bdbdbd; stroke: #9c9c9c; stroke-width: 1.25;"/>
+		<path d="M88.13 26.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="8" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M104.38 24.37h2.5v20h-2.5zM109.38 24.37h2.5v20h-2.5z" sketchjs:uid="9" style="fill: #9c9c9c; stroke: #7d7d7d; stroke-width: 1.25;"/>
+		<path d="M88.13 36.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0M88.13 41.87c0 1.67-2.5 1.67-2.5 0 0-1.665 2.5-1.665 2.5 0" sketchjs:uid="10" style="fill: #00c700; stroke: #7d7d7d; stroke-width: 1.25;"/>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(0.3095823095823096,0,0,0.3095823095823096,30.234297281965627,263.72167031577396)">
+	<path d="M-560.67-69.678c-25.262 0-45.594 20.331-45.594 45.594v428.659h559.37V-24.084c0-25.262-20.363-45.594-45.625-45.594h-468.16z" transform="matrix(0.57759,0,0,0.57759,365.566,54.065)" sketchjs:uid="1" style="stroke: #000; fill-opacity: 0.99; stroke-width: 10.64; stroke-linecap: round; filter: b;"/>
+	<path d="M44.703 16.705a26.267 26.267 0 0 0-26.33 26.33v247.587h323.081V43.035c0-14.591-11.758-26.33-26.349-26.33H44.701z" sketchjs:uid="2" style="stroke: #000; fill-opacity: 0.99; stroke-width: 6.145557600000001; stroke-linecap: round;"/>
+	<path d="M-555.52-67.314c-25.262 0-45.586 20.323-45.586 45.586V406.927h559.36V-21.728c0-25.262-20.357-45.586-45.619-45.586h-468.16z" transform="matrix(0.57759,0,0,0.57759,365.566,55.585)" sketchjs:uid="3" style="fill: url(#c);"/>
+	<path d="M52.836 24.771A24.687 24.687 0 0 0 28.09 49.518V282.21h303.65V49.519c0-13.714-11.05-24.747-24.764-24.747H52.836z" sketchjs:uid="4" style="fill: #504; fill-opacity: 0.99;"/>
+	<g sketchjs:uid="5" style="fill-opacity: 0.99;">
+		<g transform="matrix(0.57759,0,0,0.57759,342.463,-320.215)" sketchjs:uid="6" style="">
+			<rect x="-528.57" y="640.93" ry="0" width="525.71" height="368.57" rx="0" sketchjs:uid="7" style="filter: d;"/>
+			<rect x="-528.57" y="640.93" ry="0" width="525.71" height="368.57" rx="0" sketchjs:uid="8" style="fill: #fff;"/>
+		</g>
+		<g transform="matrix(0.52626,0,0,0.54465,328.699,-286.43)" sketchjs:uid="9" style="">
+			<rect x="-528.57" y="640.93" ry="0" width="525.71" height="368.57" rx="0" sketchjs:uid="10" style="filter: d;"/>
+			<rect x="-528.57" y="640.93" ry="0" width="525.71" height="368.57" rx="0" sketchjs:uid="11" style="fill: #fff;"/>
+		</g>
+		<g transform="matrix(0.4671,0,0,0.50061,312.982,-240.99)" sketchjs:uid="12" style="">
+			<rect x="-528.57" y="640.93" ry="0" width="525.71" height="368.57" rx="0" sketchjs:uid="13" style="filter: d;"/>
+			<rect x="-528.57" y="640.93" ry="0" width="525.71" height="368.57" rx="0" sketchjs:uid="14" style="fill: #fff;"/>
+		</g>
+	</g>
+	<path d="M-397.35-36.317c-25.262 0-52.523 18.626-61.156 41.781l-12.469 33.438-90.406 242.44-43.625 117.03h559.37L-2 281.342l90.406-242.44 12.468-33.436c8.63-23.155-4.8-41.781-30.062-41.781h-468.16z" transform="matrix(0.57759,0,0,0.57759,365.566,54.065)" sketchjs:uid="15" style="stroke: #000; fill-opacity: 0.99; stroke-width: 10.187; stroke-linecap: round; filter: e;"/>
+	<g sketchjs:uid="16" style="">
+		<path d="M-555.52-67.314c-25.262 0-45.586 20.323-45.586 45.586V406.927h559.36V-21.728c0-25.262-20.357-45.586-45.619-45.586h-468.16z" transform="matrix(0.57759,0,-0.1974,0.5294,446.943,75.322)" sketchjs:uid="17" style="stroke: #000; fill-opacity: 0.99; stroke-width: 10.64; stroke-linecap: round;"/>
+		<path d="M-555.52-67.314c-25.262 0-45.586 20.323-45.586 45.586V406.927h559.36V-21.728c0-25.262-20.357-45.586-45.619-45.586h-468.16z" transform="matrix(0.57759,0,-0.1974,0.5294,446.943,75.322)" sketchjs:uid="18" style="fill: url(#c);"/>
+		<path d="M144.743 47.08c-13.713 0-28.516 10.112-33.203 22.682l-6.767 18.148-49.071 131.606-23.688 63.528h303.65l23.688-63.528L408.423 87.91l6.767-18.148c4.687-12.57-2.593-22.682-16.307-22.682h-254.14z" sketchjs:uid="19" style="fill: #800080; fill-opacity: 0.99;"/>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.7478301848964537,-0.6638900621019537,0.6638900621019537,0.7478301848964537,152.00000000000003,244)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 148.50999994902008 0.01133577589107855L 113.50866415617814 17.508664173119925L 118 8L -17.50008344244519 1.092414220922109L -17.499916455594967 -1.0950857727042662L 118 -8L 113.51133594578168 -17.49133572490208ZZ" sketchjs:uid="4" style="fill: #7607d8; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9994801143396996,-0.03224129401095805,0.03224129401095805,0.9994801143396996,174.99999999999997,268)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 110.509999898854 0.011881518105456831L 75.50811846412985 17.508118380735745L 80 8L -17.500117501167498 1.0918684755721184L -17.49988229654048 -1.095631511783032L 80 -8L 75.51188173816216 -17.49188141694666ZZ" sketchjs:uid="4" style="fill: #7607d8; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.7174782911406049,0.6965808651850534,-0.6965808651850534,0.7174782911406049,174.00000000000003,315)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 160.5099999572166 0.01122369064801179L 125.50877623322467 17.508776266560275L 130 8L -17.500076445314026 1.0925263066775062L -17.499923469119185 -1.09497368797353L 130 -8L 125.51122385234208 -17.4912236478563ZZ" sketchjs:uid="4" style="fill: #7607d8; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.8944271909999159,0.4472135954999579,-0.4472135954999579,0.8944271909999159,415,94.00000000000017)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 84.50999980513727 0.012611550485768879L 49.50738852546629 17.507388254633742L 54 8L -17.500163034474536 1.0911384373342006L -17.49983657579998 -1.0963615383057383L 54 -8L 49.512611864259206 -17.49261135560528ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.8344646097517324,-0.55106153474171,0.55106153474171,0.8344646097517324,440,255)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 80.50999977961142 0.012777336895669168L 45.50722276458222 17.50722244269688L 50 8L -17.50017337059932 1.0909726493288652L -17.499826188623523 -1.0965273231202035L 50 -8L 45.512777676194936 -17.49277711648822ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.7493290854811462,0.6621977964717106,-0.6621977964717106,0.7493290854811462,437,321)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 75.50999973998265 0.013016721210133194L 40.50698341989652 17.506983018752027L 46 7L -17.50018829249021 1.0907332625375017L -17.499811187475107 -1.0967667049577683L 46 -7L 40.513017100138164 -17.493016461172292ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.8619342151577695,-0.5070201265633938,0.5070201265633938,0.8619342151577695,395,486)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 56.5099994250155 0.014486029075881954L 21.50551442699792 17.50551339590914L 27 7L -17.50027980926467 1.089263934985682L -17.499719040766344 -1.098235993137446L 27 -7L 21.514486722971064 -17.494485454060907ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9486832980505138,-0.31622776601683794,0.31622776601683794,0.9486832980505138,605,124.99999999999999)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 115.50999990891071 0.011785532079268515L 80.50821444009934 17.508214376819318L 85 8L -17.500111512097593 1.0919644622268931L -17.499888305723847 -1.0955355263854303L 85 -8L 80.51178574207925 -17.491785440977857ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.8752415354392695,0.4836861116901227,-0.4836861116901227,0.8752415354392695,594,200)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 60.50999952699127 0.014068821094394625L 25.50593153300364 17.505930705869233L 31 7L -17.500253835741596 1.089681149340832L -17.49974521824096 -1.0978187915296214L 31 -7L 25.514069413013807 -17.494068348058022ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.682318250360011,-0.731055268242869,0.731055268242869,0.682318250360011,530,394)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 99.50999986990087 0.012133886095586008L 64.50786612509286 17.507865983790772L 69 8L -17.500133245213753 1.0916161057723115L -17.49986649458797 -1.0958838779634834L 69 -8L 64.51213413510543 -17.492133755981946ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9996714309094812,0.0256326007925508,-0.0256326007925508,0.9996714309094812,602,399)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 213.50999997722536 0.010892811590083434L 178.50910709227387 17.509107165629207L 183 8L -17.500055785381655 1.092857186986122L -17.49994416906906 -1.094642810166289L 183 -8L 178.51089295327543 -17.490892788809372ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9383431168171101,0.3457053588273563,-0.3457053588273563,0.9383431168171101,550,451)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 118.50999991424108 0.011732501724011591L 83.50826746512423 17.508267412505294L 88 8L -17.50010820303075 1.0920174929153201L -17.49989162545141 -1.0954824963633432L 88 -8L 83.51173270639363 -17.49173241595332ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(-0.2169304578186563,-0.9761870601839527,0.9761870601839527,-0.2169304578186563,879,401.00000000000006)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 90.50999983584907 0.01239693190464992L 55.507603113335605 17.50760290392813L 60 8L -17.500149651525025 1.0913530578348989L -17.49985002017311 -1.0961469216441988L 60 -8L 55.512397214966285 -17.492396767737432ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9754410020677066,-0.2202608714346434,0.2202608714346434,0.9754410020677066,714.9999999999999,273)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 81.5099997864437 0.012733947787290064L 46.50726614685833 17.50726583863783L 51 8L -17.50017066561232 1.09101603886428L -17.49982890727507 -1.0964839344388602L 51 -8L 46.51273428025429 -17.49273373421241ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.7619393177594593,-0.6476484200955405,0.6476484200955405,0.7619393177594593,883,213)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 43.50999870661655 0.016728180971401982L 8.503272993501367 17.503270525599426L 14 7L -17.500419225359177 1.0870217381892748L -17.49957818787392 -1.1004781001320787L 14 -7L 8.51672959326554 -17.49672688754223ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9327981344055968,0.3603992792021624,-0.3603992792021624,0.9327981344055968,812,55.000000000000014)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 111.50999990099436 0.011861504084777614L 76.50813847601019 17.508138396896932L 81 8L -17.500116252431575 1.0918884897265793L -17.49988354955714 -1.0956114978961344L 81 -8L 76.51186172200111 -17.491861405066487ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9039581548594428,-0.42762092355626335,0.42762092355626335,0.9039581548594428,673,226)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 201.50999997415803 0.010951035268417914L 166.50904887166283 17.509048938883176L 171 8L -17.50005942129425 1.0927989631160566L -17.49994052702186 -1.0947010336528924L 171 -8L 166.51095118002107 -17.49095100942001ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="arrow" style="mix-blend-mode: source-over;" transform="matrix(0.9465101881785399,0.32267392778813864,-0.32267392778813864,0.9465101881785399,692,312)">
+	<g sketchjs:uid="1" style="">
+		<g transform="matrix(1,0,0,1,19,19)" sketchjs:uid="2" style="">
+			<g sketchjs:uid="3" style="">
+				<path d="M 157.50999995536353 0.011249910717474719L 122.50875001500832 17.50875004463755L 127 8L -17.50007808221528 1.0925000864922143L -17.499921828511756 -1.094999907927164L 127 -8L 122.51125007426465 -17.4912498660725ZZ" sketchjs:uid="4" style="fill: #4c7602; paint-order: stroke fill markers;"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
