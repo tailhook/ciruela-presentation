@@ -248,6 +248,8 @@ Hashes+Hardlinks
 
 ----
 
+:id: dirs
+
 .. image:: ciruela_dirs.svg
    :width: 1100
 
@@ -259,6 +261,13 @@ Hashes+Hardlinks
     --append ./local1:/dir1/v1.0.0 \
     --replace ./local2:/dir2/current \
     cluster1.org cluster2.org
+
+----
+
+:id: testimonials
+
+.. image:: testimonials.jpg
+   :height: 800
 
 ----
 
@@ -277,7 +286,7 @@ Security Warning
 Use Cases
 =========
 
-*‥ and to do's*
+*… and to do's*
 
 ----
 
@@ -287,7 +296,7 @@ Use Cases
 Always Available
 ================
 
-*‥ and dynamic*
+*… and dynamic*
 
 * Site categories
 * Currency rates
@@ -340,7 +349,25 @@ Refreshable Things
 * Translations
 * Game content
 
-*‥. removing file works!*
+*… removing file works!*
+
+----
+
+Limitations
+===========
+
+* Eventually consistent
+* No concurrent updates
+
+*… within single folder*
+
+----
+
+Distributed Data
+================
+
+* Search index replica
+* Geo IP database
 
 ----
 

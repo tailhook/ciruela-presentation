@@ -7,5 +7,9 @@ window.addEventListener('keydown', function(event) {
         location.assign('#/use-cases');
     } else if(event.which == 'Q'.charCodeAt(0)) {
         location.assign('#/questions');
+    } else if(event.which == 'T'.charCodeAt(0)) {
+        location.assign('#/testimonials');
+    } else if(event.which == 'D'.charCodeAt(0)) {
+        location.assign('#/dirs');
     }
 })
