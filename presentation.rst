@@ -200,6 +200,21 @@ Thats It!
 
 ----
 
+.. image:: ciruela_upload.svg
+   :width: 1200
+
+----
+
+.. image:: ciruela_notifications.svg
+   :width: 1200
+
+----
+
+.. image:: ciruela_resiliency2.svg
+   :width: 1200
+
+----
+
 .. image:: ciruela_new_server.svg
    :width: 1200
 
@@ -377,12 +392,12 @@ Container Audit
 
 ----
 
-Python Lab
-==========
+.. image:: python_lab.svg
 
 ----
 
-TODO
+.. image:: pythonlab_search.jpg
+   :height: 700
 
 ----
 
