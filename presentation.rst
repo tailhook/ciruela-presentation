@@ -336,7 +336,7 @@ Push New Data
      with open(d.name+'/data.json', 'w') s f:
         json.dump(data, f)
      subprocess.check_call([
-         'cirula', 'sync',
+         'ciruela', 'sync',
          '--replace', d.name+':/sync/cur',
          'entry-point.example.org'])
 
